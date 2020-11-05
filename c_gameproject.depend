@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1543553817 source:d:\codes\c_gameproject\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<mmsystem.h>
+	"font.h"
+	"Digitalv.h"
+
+1543150734 d:\codes\c_gameproject\font.h
+
+1542185236 d:\codes\c_gameproject\print.h
+
+1542201776 source:d:\codes\c_gameproject\sword_reverse.c
+
+1543553967 d:\codes\c_gameproject\digitalv.h
+	<pshpack1.h>
+	<poppack.h>
+
+1543553817 source:c:\users\skybl\desktop\1525이재환\c_gameproject\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<mmsystem.h>
+	"font.h"
+	"Digitalv.h"
+
+1543150734 c:\users\skybl\desktop\1525이재환\c_gameproject\font.h
+
+1543553967 c:\users\skybl\desktop\1525이재환\c_gameproject\digitalv.h
+	<pshpack1.h>
+	<poppack.h>
+

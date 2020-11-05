@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="c_gameproject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/c_gameproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lwinmm" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/c_gameproject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="devil.txt" />
+		<Unit filename="eye.txt" />
+		<Unit filename="knight2.txt" />
+		<Unit filename="knight2_reverse.txt" />
+		<Unit filename="knight_reverse.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="monster1-down.txt" />
+		<Unit filename="monster1-up.txt" />
+		<Unit filename="monster10-down.txt" />
+		<Unit filename="monster10-up.txt" />
+		<Unit filename="monster11-down.txt" />
+		<Unit filename="monster11-up.txt" />
+		<Unit filename="monster12-down.txt" />
+		<Unit filename="monster12-up.txt" />
+		<Unit filename="monster13-down.txt" />
+		<Unit filename="monster13-up.txt" />
+		<Unit filename="monster14-down.txt" />
+		<Unit filename="monster14-up.txt" />
+		<Unit filename="monster15-down.txt" />
+		<Unit filename="monster15-up.txt" />
+		<Unit filename="monster16-down.txt" />
+		<Unit filename="monster16-up.txt" />
+		<Unit filename="monster17-down.txt" />
+		<Unit filename="monster17-up.txt" />
+		<Unit filename="monster18-down.txt" />
+		<Unit filename="monster18-up.txt" />
+		<Unit filename="monster19-down.txt" />
+		<Unit filename="monster19-up.txt" />
+		<Unit filename="monster2-down.txt" />
+		<Unit filename="monster2-up.txt" />
+		<Unit filename="monster20-down.txt" />
+		<Unit filename="monster20-up.txt" />
+		<Unit filename="monster3-down.txt" />
+		<Unit filename="monster3-up.txt" />
+		<Unit filename="monster4-down.txt" />
+		<Unit filename="monster4-up.txt" />
+		<Unit filename="monster5-down.txt" />
+		<Unit filename="monster5-up.txt" />
+		<Unit filename="monster6-down.txt" />
+		<Unit filename="monster6-up.txt" />
+		<Unit filename="monster7-down.txt" />
+		<Unit filename="monster7-up.txt" />
+		<Unit filename="monster8-down.txt" />
+		<Unit filename="monster8-up.txt" />
+		<Unit filename="monster9-down.txt" />
+		<Unit filename="monster9-up.txt" />
+		<Unit filename="plusstat.txt" />
+		<Unit filename="sword.txt" />
+		<Unit filename="sword_reverse.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
